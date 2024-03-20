@@ -1,0 +1,156 @@
+.bg-fundo {
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#logo {
+    margin-top: 8%;
+    margin-left: 38%;
+}
+
+#divHeader {
+    margin-left:29%;
+    margin-top: -3%;
+    font-size: 18px;
+}
+
+#nav{
+    color: white;
+}
+
+#nav:hover{
+    color: #FF7935;
+}
+
+#tituloPrincipal1{
+    margin-top: 12%;
+    margin-left: 4%;
+    color: white;
+    font-size: 80px;
+}
+
+#tituloPrincipal2{
+    margin-top: -6%;
+    margin-left: -13%;
+    color: white;
+    font-size: 80px;
+}
+
+#video{
+    margin-left: 55%;
+    margin-top: -25%;
+    width:560px; 
+    height:315px;
+}
+
+#p{
+    color: #FF9659;
+    font-size: 24px;
+    width: 30vw;
+    margin-left: -93%;
+    margin-top: 2%;
+    text-align: justify;
+}
+
+#button{
+    background-color: #EE0C0C;
+    border: none;
+    padding: 15px 23px;
+    font-size: 14px;
+    margin-left: -240%;
+    margin-top: -26%;
+}
+
+#button:hover{
+    margin-top: -35%;
+    transition: 0.8s;
+    box-shadow: -1px 2px 3px 2px rgb(54, 0, 54);
+}
+
+#p2{
+    color: #FF9659;
+    font-size: 18px;
+    width: 17vw;
+    margin-left: -45%;
+    margin-top: -2%;
+    text-align: justify;
+}
+
+#subTitulo{
+    margin-top: 15%;
+    margin-left: -38%;
+    color: #D73802;
+    font-size: 20px;
+}
+
+#H2{
+    font-size: 50px;
+    color: white;
+}
+
+#subTitulo2{
+    font-size: 25px;
+    color: #FF7935;
+    margin-top: 10%;
+    margin-left: -67%;
+    text-align: justify;
+}
+
+#col1{
+    margin-top: 5%;
+    margin-left: 18%;
+    height: 282px;
+    width: 370.66px;
+    padding: 32px;
+    margin-bottom: 2%;
+    background-color: #181628;
+    border: 1px solid #181628;
+    border-radius: 8px;
+}
+
+#img{
+    border-radius: 100px;
+    background-color: #2b2b2b;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.colunas {
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: 0; 
+    margin-left: 11%;
+    padding: 0; 
+    box-sizing: border-box; 
+}
+
+#tituloC{
+    font-size: 25px;
+    color: white;
+}
+
+#paragrafo{
+    color: #FF7935;
+    font-size: 18px;
+}
+
+#emoji{
+    border-radius: 100px;
+    background-color: #2b2b2b;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    line-height: 32px;
+    cursor: default;
+
+}
